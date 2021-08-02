@@ -1,0 +1,19 @@
+/////////////////////////////////////////////////////////////////////////
+// Author: Connor Melton
+// Date: 8/2/2021
+/////////////////////////////////////////////////////////////////////////
+
+Logical Reasoning:
+3) This question is based on a certain code language. Understand the logic in the coding and answer the following question.
+
+If PROCESSOR is coded as D4F3C5C1E1S1S1E3C6, what is the code for QUADRANT?
+ANSWER: Q1C7A1B2C6A1B9B10
+
+Q = Q1;
+U = C7;
+A = A1;
+D = B2;
+R = C6;
+A = A1;
+N = B9;
+T = B10;
