@@ -32,12 +32,10 @@ let bucketize = (words, size) => {
         }
         else if(b.length + w.length + 1 > size){
             out.push(b);
-            b = w;
+            b = '';
         }
-        else{
-           b ? b += ' ' + w : b = w;
-           if((i+1) == words.length) out.push(b);
-        }
+        b ? b += ' ' + w : b = w;
+        if((i+1) == words.length) out.push(b);
     }
     return out;
 }
